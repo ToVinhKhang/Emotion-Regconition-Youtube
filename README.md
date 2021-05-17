@@ -1,7 +1,5 @@
-EMOTION REGCONITION FOR VIETNAMESE SOCIAL MEDIA TEXT
-
+## EMOTION REGCONITION FOR VIETNAMESE SOCIAL MEDIA TEXT
 <br/>
-
 ### MainPackages:
 	- Pandas (1.1.3)
 	- Selenium (3.141.0)
@@ -9,7 +7,6 @@ EMOTION REGCONITION FOR VIETNAMESE SOCIAL MEDIA TEXT
 	- Underthesea (1.3.1)
 
 <br/>
-
 ### Introductions:
 	- Crawling data from 3 youtube videos (100 comments for each video) (*)
 	- Data preprocessing (stopwords, word segmentation)
@@ -18,19 +15,16 @@ EMOTION REGCONITION FOR VIETNAMESE SOCIAL MEDIA TEXT
 	- Applying trained model to 3 datasets of (*). Report performance metrics.
 
 <br/>
-
 ### Requirements: 
 	- Python(≥3.6),NumPy(≥1.13.3),SciPy(≥0.19.1),Joblib(≥0.11),Threadpoolctl(≥2.0.0)
 	- Torch(1.5.0),Torchvision(0.7.0)
 
 <br/>
-
 ### Notes: 
 	- Make sure 'chromedriver.exe' is in the same location as 'Datamining.ipynb'
 	- The folder 'dataList' contains all the datasets of the youtube video. 
 
 <br/>
-
 ### References:
 • From Books&Paper:
 <br/>
@@ -59,6 +53,4 @@ EMOTION REGCONITION FOR VIETNAMESE SOCIAL MEDIA TEXT
 	[8]: https://programmersought.com/article/61456088337/
 <br/>
 	[9]: https://pypi.org/project/underthesea/
-<br/>
-
 <br/>
